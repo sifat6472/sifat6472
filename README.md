@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S.M. Sifatul Islam</h1>
-<h3 align="center">I'm an undergraduate student of Computer Science & Engineering department of 2nd year</h3>
+<h3 align="center">I'm a 2nd year student of Computer Science & Engineering department </h3>
 
 
 - 🌱 I’m currently learning **Data Structure And Algorithms**
