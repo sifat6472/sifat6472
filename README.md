@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm S.M. Sifatul Islam</h1>
 <h3 align="center">I'm an undergraduate student of Computer Science & Engineering department of 2nd year</h3>
-<img align="right" alt="coding"width="400"src="![image](https://github.com/sifat6472/sifat6472/assets/117737171/089f00e3-e404-41e5-8081-498effe9fe6f)
-">
+
+
 - 🌱 I’m currently learning **Data Structure And Algorithms**
 
 - 📫 How to reach me **sifat6472@gmail.com**
