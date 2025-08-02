@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm S.M. Sifatul Islam</h1>
-<h3 align="center">I'm a 2nd year student of Computer Science & Engineering department </h3>
+<h3 align="center">I'm a 4th year student of Computer Science & Engineering department </h3>
 
 
-- 🌱 I’m currently learning **Data Structure And Algorithms**
 
 - 📫 How to reach me **sifat6472@gmail.com**
 
