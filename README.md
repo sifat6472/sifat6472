@@ -3,7 +3,7 @@
 
 <!-- Typing animation banner -->
 <a href="https://github.com/sifat6472">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+S.M.+Sifatul+Islam;Aspiring+Software+Engineer;Competitive+Programmer;4th+Year+CSE+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+S.M.+Sifatul+Islam;Aspiring+Software+Engineer;4th+Year+CSE+Student" alt="Typing SVG" />
 </a>
 
 <p>
@@ -56,7 +56,7 @@ open_to:     Internships · Entry-level SWE roles · Open-source collaboration
 <div align="center">
 
 <!-- ⚠️ Replace YOUR_LINKEDIN_USERNAME with your real LinkedIn handle -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-m-sifatul-islam)
 <!-- ⚠️ Replace YOUR_FACEBOOK_USERNAME with your real handle (the original link was broken) -->
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK_USERNAME)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.m_sifat)
