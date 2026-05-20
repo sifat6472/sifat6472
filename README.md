@@ -56,7 +56,7 @@ open_to:     Internships · Entry-level SWE roles · Open-source collaboration
 <div align="center">
 
 <!-- ⚠️ Replace YOUR_LINKEDIN_USERNAME with your real LinkedIn handle -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-m-sifatul-islam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-m-sifatul-islam-b78a8b234/))
 <!-- ⚠️ Replace YOUR_FACEBOOK_USERNAME with your real handle (the original link was broken) -->
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK_USERNAME)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.m_sifat)
