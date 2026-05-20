@@ -21,7 +21,7 @@ name:        S.M. Sifatul Islam
 role:        Aspiring Software Engineer
 education:   B.Sc. in Computer Science & Engineering (4th Year)
 focus:       Problem Solving · Data Structures & Algorithms · Software Development
-languages:   C · C++ · Java
+languages:   C · C++ · Java · PHP (Laravel)
 currently:   Sharpening algorithmic skills on Codeforces & LeetCode
 open_to:     Internships · Entry-level SWE roles · Open-source collaboration
 ```
@@ -39,7 +39,9 @@ open_to:     Internships · Entry-level SWE roles · Open-source collaboration
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -53,6 +55,8 @@ open_to:     Internships · Entry-level SWE roles · Open-source collaboration
 
 <div align="center">
 
+<!-- ⚠️ Replace YOUR_LINKEDIN_USERNAME with your real LinkedIn handle -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 <!-- ⚠️ Replace YOUR_FACEBOOK_USERNAME with your real handle (the original link was broken) -->
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK_USERNAME)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.m_sifat)
@@ -71,7 +75,16 @@ open_to:     Internships · Entry-level SWE roles · Open-source collaboration
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sifat6472&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<!--
+  ⚠️ If "GitHub Stats" or "Top Languages" show as broken images:
+  The PUBLIC github-readme-stats.vercel.app instance is rate-limited and often fails.
+  RELIABLE FIX → deploy your own instance (free, ~5 min):
+    1. Fork https://github.com/anuraghazra/github-readme-stats
+    2. Import the fork into https://vercel.com (free Hobby plan)
+    3. Add a PAT_1 environment variable (a GitHub personal access token)
+    4. Replace "github-readme-stats.vercel.app" below with "your-app.vercel.app"
+-->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sifat6472&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sifat6472&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifat6472&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
@@ -104,6 +117,13 @@ open_to:     Internships · Entry-level SWE roles · Open-source collaboration
 
 <div align="center">
 
+<!--
+  ⚠️ If this card renders blank:
+  1. Make sure the repo name below matches your real repo EXACTLY (case-sensitive).
+  2. The repo must be PUBLIC.
+  3. If both are correct, it's likely a temporary Vercel rate-limit — refresh later.
+  Replace "Problem-Solving" with your actual repository name if it differs.
+-->
 <a href="https://github.com/sifat6472/Problem-Solving">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sifat6472&repo=Problem-Solving&theme=tokyonight&hide_border=true" alt="Problem-Solving Repo" />
 </a>
