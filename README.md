@@ -77,7 +77,6 @@ On the side, I keep my problem-solving sharp on
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sifat6472&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sifat6472&theme=tokyonight&hide_border=true" />
 </p>
 
