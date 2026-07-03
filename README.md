@@ -94,16 +94,11 @@ On the side, I keep my problem-solving sharp on
 
 ## 🚀 Featured Repository
 
-<div align="center">
-
-<a href="https://github.com/sifat6472/Problem-Solving">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sifat6472&repo=Problem-Solving&theme=tokyonight&hide_border=true" alt="Problem-Solving Repo" />
-</a>
-
-</div>
----
-
-<div align="center">
+<p align="center">
+  <a href="https://github.com/sifat6472/edupath">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sifat6472&repo=edupath&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ⭐️ From [sifat6472](https://github.com/sifat6472)
 
