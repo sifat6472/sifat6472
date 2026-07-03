@@ -74,42 +74,30 @@ On the side, I keep my problem-solving sharp on
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!--
-  ⚠️ If "GitHub Stats" or "Top Languages" show as broken images:
-  The PUBLIC github-readme-stats.vercel.app instance is rate-limited and often fails.
-  RELIABLE FIX → deploy your own instance (free, ~5 min):
-    1. Fork https://github.com/anuraghazra/github-readme-stats
-    2. Import the fork into https://vercel.com (free Hobby plan)
-    3. Add a PAT_1 environment variable (a GitHub personal access token)
-    4. Replace "github-readme-stats.vercel.app" below with "your-app.vercel.app"
--->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sifat6472&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sifat6472&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifat6472&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sifat6472&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sifat6472&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sifat6472&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📈 Contribution Activity
+## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sifat6472&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifat6472&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
+
+## 📋 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifat6472&theme=tokyonight" />
+</p>
+
+## ⏰ Coding Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sifat6472&theme=tokyonight&utcOffset=6" />
+</p>
 
 ## 🚀 Featured Repository
 
