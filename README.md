@@ -32,6 +32,11 @@ open_to:     Internships · Entry-level SWE roles · Open-source collaboration
 
 ---
 
+On the side, I keep my problem-solving sharp on
+[Codeforces](https://codeforces.com/profile/sifat6472),
+[LeetCode](https://leetcode.com/u/sifat6472), and
+[VJudge](https://vjudge.net/user/Sifat_Islam).
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -44,8 +49,6 @@ open_to:     Internships · Entry-level SWE roles · Open-source collaboration
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
