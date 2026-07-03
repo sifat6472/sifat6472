@@ -81,12 +81,6 @@ On the side, I keep my problem-solving sharp on
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sifat6472&theme=tokyonight&hide_border=true" />
 </p>
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifat6472&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 📋 Profile Summary
 
 <p align="center">
