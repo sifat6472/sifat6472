@@ -120,19 +120,11 @@ On the side, I keep my problem-solving sharp on
 
 <div align="center">
 
-<!--
-  ⚠️ If this card renders blank:
-  1. Make sure the repo name below matches your real repo EXACTLY (case-sensitive).
-  2. The repo must be PUBLIC.
-  3. If both are correct, it's likely a temporary Vercel rate-limit — refresh later.
-  Replace "Problem-Solving" with your actual repository name if it differs.
--->
 <a href="https://github.com/sifat6472/Problem-Solving">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sifat6472&repo=Problem-Solving&theme=tokyonight&hide_border=true" alt="Problem-Solving Repo" />
 </a>
 
 </div>
-
 ---
 
 <div align="center">
